@@ -1,19 +1,21 @@
 * {
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-   text-align: center;
+  text-align: center;
 }
 
 h1 {
-   font-size: 4.4rem;
-   margin-top: 40px;
+  font-size: 4.4rem;
+  margin-top: 40px;
 }
 
 h2 {
-   font-size: 2.4rem;
-   margin-top: 1.4rem;
+  font-size: 2.4rem;
+  margin-top: 1.4rem;
 }
+
+/*# sourceMappingURL=styles.css.map */
