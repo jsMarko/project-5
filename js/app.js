@@ -1,6 +1,5 @@
-baguetteBox.run(".gallery"{
-  animation: "slideIn",
-  buttons: true
+baguetteBox.run(".gallery", {
+   animation: "slideIn",
+   buttons: true
 });
-
-const search = new Filter("search", "data-caption");
+// const search = new Filter("search", "data-caption");
